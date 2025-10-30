@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0-dev",
+  "commitHash": "ba1f364",
+  "branch": "HEAD",
+  "commitDate": "2025-10-30 12:14:29 +0300",
+  "commitMessage": "ci: bump version to 0.1.122 [ci skip]",
+  "buildDate": "2025-10-30T09:14:31.594Z"
+}
